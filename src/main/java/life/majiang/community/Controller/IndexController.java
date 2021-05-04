@@ -1,4 +1,4 @@
-package life.majiang.community.community;
+package life.majiang.community.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
